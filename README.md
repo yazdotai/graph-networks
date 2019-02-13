@@ -1,5 +1,5 @@
 # Graph Neural Networks and Recommendations
-A list of interesting graph neural networks material with a primary interest in recommendations and [tensorflow](https://github.com/tensorflow/tensorflow) that is continually updated and refined
+A list of interesting graph neural networks (GNN) material with a primary interest in recommendations and [tensorflow](https://github.com/tensorflow/tensorflow) that is continually updated and refined
 
 ## TensorFlow Implementations
 
