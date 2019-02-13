@@ -26,6 +26,18 @@ A list of interesting graph neural networks material with a primary interest in 
 
 1. **[Spatio-Temporal Graph Convolutional Networks](https://github.com/VeritasYin/STGCN_IJCAI-18)**
 
+## Articles
+
+1. **[A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)**
+
+1. **[PinSage: A new graph convolutional neural network for web-scale recommender systems](https://medium.com/pinterest-engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48)**
+
+1. **[Model-Based Machine Learning and Making Recommendations](http://mbmlbook.com/Recommender.html)**
+
+1. **[Machine Learning for Recommender systems from Recombee](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)**
+
+1. **[How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)**
+
 
 ## Research Papers
 
