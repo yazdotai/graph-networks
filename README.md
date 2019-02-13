@@ -1,6 +1,5 @@
 # Graph Neural Networks and Recommendations
-A list of interesting graph neural networks material with a primary interest in recommendations and [tensorflow](https://github.com/tensorflow/tensorflow)
-
+A list of interesting graph neural networks material with a primary interest in recommendations and [tensorflow](https://github.com/tensorflow/tensorflow) that is continually updated and refined
 
 ## TensorFlow Implementations
 
@@ -37,6 +36,24 @@ A list of interesting graph neural networks material with a primary interest in 
 1. **[Machine Learning for Recommender systems from Recombee](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)**
 
 1. **[How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)**
+
+## Videos
+
+1. **[Intro to Graph Convolutional Networks](https://www.youtube.com/watch?v=UAwrDY_Bcdc)**
+
+1. **[Graph Convolutional Networks for Node Classification](https://www.youtube.com/watch?v=LFSR27BaNIQ)**
+
+1. **[Jure Leskovec - Large-scale Graph Representation Learning](https://www.youtube.com/watch?v=oQL4E1gK3VU)**
+
+1. **[Attention in Neural Networks](https://www.youtube.com/watch?v=W2rWgXJBZhU)**
+
+1. **[Michael Bronstein - Geometric deep learning on graphs: going beyond Euclidean data](https://www.youtube.com/watch?v=b187J4ndZWY)**
+
+1. **[Yann LeCun - Graph Embedding, Content Understanding, and Self-Supervised Learning](https://www.youtube.com/watch?v=UGPT64wo7lU)**
+
+1. **[DeepWalk: Turning Graphs Into Features via Network Embeddings with Neo4j](https://www.youtube.com/watch?v=aZNtHJwfIVg)**
+
+1. **[What is a Random Walk?](https://www.youtube.com/watch?v=stgYW6M5o4k)**
 
 
 ## Research Papers
