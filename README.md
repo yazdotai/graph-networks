@@ -3,6 +3,8 @@ A list of interesting graph neural networks (GNN) material with a primary intere
 
 ## TensorFlow Implementations
 
+1. **[Graph Nets in TensorFlow by DeepMind](https://github.com/deepmind/graph_nets)**
+
 1. **[Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/mdeff/cnn_graph)**
 
 1. **[Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/tkipf/gcn)**
