@@ -332,7 +332,7 @@ A list of interesting graph neural networks (GNN) material with a primary intere
 - **3D Graph Neural Networks for RGBD Semantic Segmentation.**
 *Xiaojuan Qi, Renjie Liao, Jiaya Jia, Sanja Fidler, Raquel Urtasun.* CVPR 2017. [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_3D_Graph_Neural_ICCV_2017_paper.pdf)
 
--**Iterative Visual Reasoning Beyond Convolutions.**
+- **Iterative Visual Reasoning Beyond Convolutions.**
 *Xinlei Chen, Li-Jia Li, Li Fei-Fei, Abhinav Gupta.* CVPR 2018. [paper](https://arxiv.org/pdf/1803.11189)
 
 - **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs.**
