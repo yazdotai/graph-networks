@@ -102,6 +102,62 @@ A list of interesting graph neural networks (GNN) material with a primary intere
   - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games/data)
   - [Anime Recommendations Database](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
 
+## Recommendation Algorithms
+
+- Basic of Recommender Systems
+  - [Wikipedia](https://en.wikipedia.org/wiki/Recommender_system)
+- Nearest Neighbor Search
+  - [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+  - [sklearn.neighbors](http://scikit-learn.org/stable/modules/neighbors.html)
+  - [Benchmarks of approximate nearest neighbor libraries](https://github.com/erikbern/ann-benchmarks)
+- Classic Matrix Facotirzation
+  - [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
+  - [Matrix Factorization Techiques for Recommendaion Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
+- Singular Value Decomposition (SVD)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Singular-value_decomposition)
+- SVD++
+  - [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](http://www.cs.rochester.edu/twiki/pub/Main/HarpSeminar/Factorization_Meets_the_Neighborhood-_a_Multifaceted_Collaborative_Filtering_Model.pdf)
+- Content-based CF / Context-aware CF
+  - there are so many ...
+- Advanced Matrix Factorization
+  - [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
+  - [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](https://dl.acm.org/citation.cfm?id=2911489)
+  - [Collaborative Filtering for Implicit Feedback Datasets](http://ieeexplore.ieee.org/document/4781121/)
+  - [Factorization Meets the Item Embedding: Regularizing Matrix Factorization with Item Co-occurrence](https://dl.acm.org/citation.cfm?id=2959182)
+- Factorization Machine
+  - [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+  - [Field-aware Factorization Machines for CTR Prediction](https://dl.acm.org/citation.cfm?id=2959134)
+- Sparse LInear Method (SLIM)
+  - [SLIM: Sparse Linear Methods for Top-N Recommender Systems](http://glaros.dtc.umn.edu/gkhome/node/774)
+  - [Global and Local SLIM](http://glaros.dtc.umn.edu/gkhome/node/1192)
+- Learning to Rank
+  - [Wikipedia](https://en.wikipedia.org/wiki/Learning_to_rank)
+  - [BPR: Bayesian personalized ranking from implicit feedback](https://dl.acm.org/citation.cfm?id=1795167)
+  - [WSABIE: Scaling Up To Large Vocabulary Image Annotation](http://www.thespermwhale.com/jaseweston/papers/wsabie-ijcai.pdf)
+  - [Top-1 Feedback](http://proceedings.mlr.press/v38/chaudhuri15.pdf)
+  - [k-order statistic loss](http://www.ee.columbia.edu/~ronw/pubs/recsys2013-kaos.pdf)
+  - [VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback](https://dl.acm.org/citation.cfm?id=3015834)
+  - [The LambdaLoss Framework for Ranking Metric Optimization](https://dl.acm.org/citation.cfm?id=3271784)
+- Cold-start
+  - [Deep content-based music recommendation](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
+  - [DropoutNet: Addressing Cold Start in Recommender Systems](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)
+- Network Embedding
+  - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
+  - [Item2vec](https://arxiv.org/abs/1603.04259)
+  - [entity2rec](https://dl.acm.org/citation.cfm?id=3109889)
+- Translation Embedding
+  - [Translation-based Recommendation](https://dl.acm.org/citation.cfm?id=3109882)
+- Deep Learning
+  - [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
+  - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
+  - [Neural Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3052569)
+  - [Collaborative Deep Learning for Recommender Systems](http://www.wanghao.in/CDL.htm)
+  - [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://dl.acm.org/citation.cfm?id=2835837)
+  - [Collaborative recurrent autoencoder: recommend while learning to fill in the blanks](https://dl.acm.org/citation.cfm?id=3157143)
+  - [TensorFlow Wide & Deep Learning](https://www.tensorflow.org/tutorials/wide_and_deep)
+  - [Deep Neural Networks for YouTube Recommendations](https://research.google.com/pubs/pub45530.html)
+  - [Collaborative Memory Network for Recommendation Systems](https://arxiv.org/abs/1804.10862)
+
 
 ## Research Papers
 
