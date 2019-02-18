@@ -17,6 +17,8 @@ A list of interesting graph neural networks (GNN) material with a primary intere
 
 - **[Large-Scale Learnable Graph Convolutional Networks](https://github.com/divelab/lgcn/)**
 
+- **[RippleNet](https://github.com/hwwang55/RippleNet)**
+
 - **[Graph Attention Networks](https://github.com/PetarV-/GAT)**
 
 - **[Variational Graph Auto-Encoder](https://github.com/limaosen0/Variational-Graph-Auto-Encoders)**
