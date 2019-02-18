@@ -63,6 +63,45 @@ A list of interesting graph neural networks (GNN) material with a primary intere
 
 - **[What is a Random Walk?](https://www.youtube.com/watch?v=stgYW6M5o4k)**
 
+## Public Datasets
+- [Recommender Systems Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+- [GroupLens](https://grouplens.org/)
+  - [MovieLens](https://grouplens.org/datasets/movielens/)
+  - [HetRec2011](https://grouplens.org/datasets/hetrec-2011/)
+  - [WikiLens](https://grouplens.org/datasets/wikilens/)
+  - [Book-Crossing](https://grouplens.org/datasets/book-crossing/)
+  - [Jester](https://grouplens.org/datasets/jester/)
+  - [EachMovie](https://grouplens.org/datasets/eachmovie/)
+- [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
+  - Books, Electronics, Movies, etc.
+- [SNAP Datasets](https://snap.stanford.edu/data/index.html)
+- [#nowplaying Dataset](http://dbis-nowplaying.uibk.ac.at/)
+- [Last.fm Datasets](http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/index.html)
+- [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/)
+- [Frappe](http://baltrunas.info/research-menu/frappe)
+- [Yahoo! Webscope Program](https://webscope.sandbox.yahoo.com/)
+  - music ratings, movie ratings, etc.
+- [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge)
+- [MovieTweetings](https://github.com/sidooms/MovieTweetings)
+- [Foursquare](https://archive.org/details/201309_foursquare_dataset_umn)
+- [Epinions](http://jmcauley.ucsd.edu/data/epinions)
+- [Google Local](http://jmcauley.ucsd.edu/data/googlelocal/)
+  - location, phone number, time, rating, addres, GPS, etc.
+- [CiteUlike-t](http://www.wanghao.in/CDL.htm)
+- [LibimSeTi](http://www.occamslab.com/petricek/data/)
+- [Scholarly Paper Recommendation Datasets](http://www.comp.nus.edu.sg/~sugiyama/SchPaperRecData.html)
+- [Netflix Prize Data Set](http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a)
+- [FilmTrust,CiaoDVD](https://www.librec.net/datasets.html)
+- [Chicago Entree](http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data)
+- [Douban](http://socialcomputing.asu.edu/datasets/Douban)
+- [BibSonomy](https://www.kde.cs.uni-kassel.de/bibsonomy/dumps)
+- [Delicious](http://www.dai-labor.de/en/competence_centers/irml/datasets/)
+- [Foursquare](https://archive.org/details/201309_foursquare_dataset_umn)
+- [MACLab LJ Datasets](http://mac.citi.sinica.edu.tw/LJ#.Ww_hbFOFNE5)
+- Kaggle::Datasets
+  - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games/data)
+  - [Anime Recommendations Database](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
+
 
 ## Research Papers
 
