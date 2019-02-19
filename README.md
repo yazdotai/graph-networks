@@ -23,6 +23,8 @@ A list of interesting graph neural networks (GNN) material with a primary intere
 
 - **[DeepRec](https://github.com/cheungdaven/DeepRec)**
 
+- **[OpenRec](https://github.com/ylongqi/openrec)**
+
 - **[Graph Attention Networks](https://github.com/PetarV-/GAT)**
 
 - **[Variational Graph Auto-Encoder](https://github.com/limaosen0/Variational-Graph-Auto-Encoders)**
