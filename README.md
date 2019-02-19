@@ -33,6 +33,8 @@ A list of interesting graph neural networks (GNN) material with a primary intere
 
 - **[Deep Recursive Network Embedding with Regular Equivalence](https://github.com/tadpole/DRNE)**
 
+- **[DeepWalk](https://github.com/triandicAnt/GraphEmbeddingRecommendationSystem)**
+
 - **[GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Model](https://github.com/snap-stanford/GraphRNN)**
 
 - **[Diffusion Convolutional Recurrent Neural Network](https://github.com/liyaguang/DCRNN)**
