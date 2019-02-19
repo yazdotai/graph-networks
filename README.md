@@ -19,6 +19,8 @@ A list of interesting graph neural networks (GNN) material with a primary intere
 
 - **[RippleNet](https://github.com/hwwang55/RippleNet)**
 
+- **[MKR (multi-task learning for knowledge graph enhanced recommendation)](https://github.com/hwwang55/MKR)**
+
 - **[Graph Attention Networks](https://github.com/PetarV-/GAT)**
 
 - **[Variational Graph Auto-Encoder](https://github.com/limaosen0/Variational-Graph-Auto-Encoders)**
