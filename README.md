@@ -1,6 +1,18 @@
 # Graph Neural Networks and Recommendations
 A list of interesting graph neural networks (GNN) material with a primary interest in recommendations and [tensorflow](https://github.com/tensorflow/tensorflow) that is continually updated and refined
 
+- [Graph Neural Networks and Recommendations](#graph-neural-networks-and-recommendations)
+  - [TensorFlow Implementations](#tensorflow-implementations)
+  - [Articles](#articles)
+  - [Videos](#videos)
+  - [Public Datasets](#public-datasets)
+  - [Recommendation Algorithms](#recommendation-algorithms)
+  - [Research Papers](#research-papers)
+    - [Relational Representation Learning](#relational-representation-learning)
+    - [Survey papers](#survey-papers)
+    - [Models](#models)
+    - [Applications](#applications)
+
 ![graph neural networks](https://user-images.githubusercontent.com/130832/52767777-6354c800-3023-11e9-9032-3a5a89190996.png)
 
 ## TensorFlow Implementations
